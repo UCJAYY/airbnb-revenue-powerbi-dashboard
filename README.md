@@ -19,7 +19,8 @@ It showcases data cleaning, visualizations, and dashboard creation using Power B
 - Designing an interactive dashboard from scratch
 
 ## 📸 Screenshot
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard.png.png)
+
 
 
 ## 🚀 Future Plans
