@@ -19,7 +19,7 @@ It showcases data cleaning, visualizations, and dashboard creation using Power B
 - Designing an interactive dashboard from scratch
 
 ## 📸 Screenshot
-_Add your dashboard screenshot here (optional)_
+dashboard.png
 
 ## 🚀 Future Plans
 This project kicks off my data analyst portfolio. I'll be adding more dashboards and analysis projects over the next few weeks.
